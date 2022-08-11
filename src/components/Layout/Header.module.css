@@ -1,0 +1,29 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5rem;
+    background-color: #a11f1d;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    z-index: 10;
+  }
+  
+  .main-image {
+    width: 100%;
+    height: 25rem;
+    z-index: 0;
+    overflow: hidden;
+  }
+  
+  .main-image img {
+    width: 110%;
+    height: 100%;
+    object-fit: cover;
+    clip-path: polygon(100% 0%, 0% 0%, 0% 100%, 3% 90%, 6% 100%, 9% 90%, 12% 100%, 15% 90%, 18% 100%, 21% 90%, 24% 100%, 27% 90%, 30% 100%, 33% 90%, 36% 100%, 39% 90%, 42% 100%, 45% 90%, 48% 100%, 51% 90%, 54% 100%, 57% 90%, 60% 100%, 63% 90%, 66% 100%, 69% 90%, 72% 100%, 75% 90%, 78% 100%, 81% 90%,84% 100%, 87% 90%, 90% 100%, 93% 90%, 96% 100%, 99% 90%);
+  }
