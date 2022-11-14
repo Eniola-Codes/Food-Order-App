@@ -12,7 +12,7 @@ Click the link : https://food-order-app-eniola.netlify.com/
 
 This is a single page application with a well structured layout, where you view both information of the web app and order food items by adding them to the cart. 
 
-The application let you see name of each product then gives you the flexibility to add between one to five 5 items to the cart at once with a single button click. 
+The application let you see name of each product then gives you the flexibility to add between one to five 5 items to the cart at once with a single button click. The items are stored on firebase and are fetched immediately the user opens the application
 
 ![item image](https://github.com/Eniola-Codes/Food-Order-App/blob/main/src/components/assets/item.png?raw=true)
 
@@ -24,9 +24,11 @@ A click of the cart button opens the cart, the cart systems allows you to view t
 
 ![Cart item](https://github.com/Eniola-Codes/Food-Order-App/blob/main/src/components/assets/cartitems.png?raw=true)
 
+After a user makes an order, the order and contact information of that transaction is being stored on firebase.
+
 **Technologies**
 
-Technologies i used to build this are  React.js and Css
+Technologies i used to build this are  React.js, Css, firebase
 
 I used React.js framework to bootstrap this project because of the limitless functionalities and flexibilities it brings to me, examples of the these are : 
 
