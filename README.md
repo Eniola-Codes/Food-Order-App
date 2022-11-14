@@ -18,7 +18,7 @@ The application let you see name of each product then gives you the flexibility 
 
 The Cart button located at the navbar in the header section, this buttons contains a counter in a badge, which counts the number of items in the cart an if there are no items in the cart, it displays 0. For a better user experience on the frontend of the application, the button undergoes a subtle bump whenever an item has being added to the cart.
 
-![Cart button](https://github.com/Eniola-Codes/Food-Order-Landing-Page/blob/main/src/assets/image/cart_button.png?raw=true)
+![Cart button](https://github.com/Eniola-Codes/Food-Order-App/blob/main/src/components/assets/button.png?raw=true)
 
 A click of the cart button opens the cart, the cart systems allows you to view the name and quantity of each particular good you have added to cart. It also gives you the flexibility to remove and add to the quantity of any particular item. You can close or open the cart at any given time.
 
