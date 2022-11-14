@@ -22,7 +22,7 @@ The Cart button located at the navbar in the header section, this buttons contai
 
 A click of the cart button opens the cart, the cart systems allows you to view the name and quantity of each particular good you have added to cart. It also gives you the flexibility to remove and add to the quantity of any particular item. You can close or open the cart at any given time.
 
-![Cart item](https://github.com/Eniola-Codes/Food-Order-App/blob/main/src/components/assets/cartitem.png?raw=true)
+![Cart item](https://github.com/Eniola-Codes/Food-Order-App/blob/main/src/components/assets/cartitems.png?raw=true)
 
 **Technologies**
 
